@@ -1,2 +1,2 @@
 # C_Programming
-c program 
+A c program to demonstrate the students information and result with grade.
